@@ -57,7 +57,7 @@ Estoy apasionado por la arquitectura de software y actualmente estoy buscando op
 
 <h2 align="center">🔗 Enlaces</h2>
 <ul align="center">
-   <a  href="[https://www.linkedin.com/in/alejandro-araque-robles/]" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
+   <a  href="https://www.linkedin.com/in/alejandro-araque-robles/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+   </a>
 </ul>
