@@ -10,6 +10,7 @@ Estoy apasionado por la arquitectura de software y actualmente estoy buscando op
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
         <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     </li> 
     <li><strong>Tecnologías y herramientas:</strong> </br> 
         <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring-boot" alt="Spring Boot">
