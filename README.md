@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Alejandro Araque</h1>
-<p align="center">Soy un estudiante del grado y máster en telecomunicaciones en la UPV. 🎓</br>
+<p align="center">Soy un Ingeniero de telecomunicaciones y estudiante del máster en telecomunicaciones en la UPV. 🎓</br>
 Estoy apasionado por la arquitectura de software y actualmente estoy buscando oportunidades </br> para introducirme en el mercado laboral y seguir aprendiendo.💻</p>
 
 <h2 align="center">🛠️ Habilidades Técnicas</h2>
