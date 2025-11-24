@@ -1,68 +1,68 @@
-<h1 align="center">👋 ¡Hola! Soy Alejandro Araque</h1>
+<h1 align="center">👋 Hi! I'm Alejandro Araque</h1>
 <p align="center">
-Soy Ingeniero de Telecomunicaciones y estudiante del máster en Inteligencia Artificial en la UPV. 🎓</br>
-Me apasiona la aplicación de la IA en la resolución de problemas reales, especialmente en el ámbito de la visión por computador y el análisis de datos biomédicos. 🤖</br>
-Actualmente busco oportunidades para seguir aprendiendo y aplicar mis conocimientos en proyectos de investigación o empresas tecnológicas. 💻
+I am a Telecommunications Engineer and a Master's student in Artificial Intelligence at UPV. 🎓</br>
+I am passionate about applying AI to solve real-world problems, specifically in the fields of Computer Vision and biomedical data analysis. 🤖</br>
+I am currently looking for opportunities to continue learning and applying my knowledge in research projects or tech companies. 💻
 </p>
 
-<h2 align="center">🧠 Habilidades Técnicas</h2>
+<h2 align="center">🧠 Technical Skills</h2>
 
 <ul>
-    <li><strong>Lenguajes de programación:</strong></br>
+    <li><strong>Programming Languages:</strong></br>
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
     </li>
-    <li><strong>Librerías y frameworks de IA / ML:</strong></br>
+    <li><strong>AI / ML Libraries & Frameworks:</strong></br>
         <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
         <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
         <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
         <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
     </li>
-    <li><strong>Otras herramientas:</strong></br>
+    <li><strong>Other Tools:</strong></br>
         <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
     </li>
 </ul>
 
-<h2 align="center">🚀 Proyectos</h2>
+<h2 align="center">🚀 Projects</h2>
 <ul>
-    <li><strong>Clasificación de imágenes biomédicas:</strong>
-        <p>Proyecto centrado en aplicar modelos de deep learning (CNNs, ViT) para el análisis de imágenes histológicas y la transferencia de conocimiento entre modalidades.</p>
+    <li><strong>Biomedical Image Classification:</strong>
+        <p>Project focused on applying Deep Learning models (CNNs, ViTs) for histological image analysis and cross-modal knowledge transfer.</p>
     </li>
-    <li><strong>Marketplace de datos:</strong>
-        <p>Desarrollé una plataforma web para compartir datasets en formato JSON o CSV, permitiendo gestionar permisos y visibilidad.</p>
+    <li><strong>Data Marketplace:</strong>
+        <p>Developed a web platform for sharing datasets in JSON or CSV formats, allowing for permission and visibility management.</p>
     </li>
 </ul>
 
-<h2 align="center">💼 Experiencia</h2>
+<h2 align="center">💼 Experience</h2>
 <ul>
-    <li><strong>Desarrollador web (prácticas profesionales):</strong>
-        <p>Participé en el desarrollo de aplicaciones web utilizando JavaScript, CSS, HTML, Freemarker y Liferay. Esta experiencia me permitió mejorar mis habilidades de programación y colaborar en entornos de desarrollo reales.</p>
+    <li><strong>Software Developer (Internship):</strong>
+        <p>Participated in the development of web applications using JavaScript, CSS, HTML, FreeMarker, and Liferay. This experience allowed me to improve my programming skills and collaborate in real-world development environments.</p>
     </li>
 </ul>
 
-<h2 align="center">🎯 Intereses</h2>
+<h2 align="center">🎯 Interests</h2>
 <ul>
     <li>
-        <p>Visión por computador aplicada a entornos clínicos o biomédicos.</p>
+        <p>Computer Vision applied to clinical or biomedical environments.</p>
     </li>
     <li>
-        <p>Modelos de aprendizaje profundo y su aplicación práctica (redes neuronales, aprendizaje por transferencia, explicabilidad de IA).</p>
+        <p>Deep Learning models and their practical application (Neural Networks, Transfer Learning, Explainable AI).</p>
     </li>
     <li>
-        <p>Integración de sistemas inteligentes en proyectos de investigación y soluciones reales.</p>
+        <p>Integration of intelligent systems into research projects and real-world solutions.</p>
     </li>
 </ul>
 
-<h2 align="center">🌟 Objetivos</h2>
+<h2 align="center">🌟 Goals</h2>
 <ul>
-    <li><strong>Mi objetivo actual es seguir creciendo en el ámbito de la inteligencia artificial aplicada, participando en proyectos que combinen ciencia de datos, visión por computador y tecnología con impacto real.</strong></li>
+    <li><strong>My current goal is to keep growing in the field of Applied Artificial Intelligence, participating in projects that combine Data Science, Computer Vision, and technology with real impact.</strong></li>
 </ul>
 
-<h2 align="center">🔗 Enlaces</h2>
+<h2 align="center">🔗 Connect with me</h2>
 <ul align="center">
    <a href="https://www.linkedin.com/in/alejandro-araque-robles/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
