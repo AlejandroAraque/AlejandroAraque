@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi! I'm Alejandro Araque</h1>
 <p align="center">
-I am a Telecommunications Engineer and a Master's student in Artificial Intelligence at UPV. 🎓</br>
+I am a Telecommunications Engineer with a Master's in Artificial Intelligence from UPV. 🎓</br>
 I am passionate about applying AI to solve real-world problems, specifically in the fields of Computer Vision and biomedical data analysis. 🤖</br>
 I am currently looking for opportunities to continue learning and applying my knowledge in research projects or tech companies. 💻
 </p>
